@@ -1,0 +1,6 @@
+BasedOnStyle: Google
+IndentWidth: 4
+UseTab: Never
+AllowShortBlocksOnASingleLine: true  # или false
+AllowShortCaseLabelsOnASingleLine: true  # или false
+ColumnLimit: 120
